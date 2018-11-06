@@ -1,4 +1,5 @@
 // add olympic rings code here
+size(600,400);
 //Black Ring
 noFill();
 strokeWeight(10);
